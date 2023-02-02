@@ -1,0 +1,27 @@
+{
+  "name": "cra-template-ts-mui-sass",
+  "version": "1.0.0",
+  "description": "A basic Create React App template to use TypeScript, Material UI & SASS.",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "sass",
+    "mui",
+    "materialui"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RxDSoftware/cra-template-ts-mui-sass.git"
+  },
+  "author": "RxD Software LLC",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}

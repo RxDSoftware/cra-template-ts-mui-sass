@@ -2,7 +2,7 @@
 
 This is a basic [Create React App](https://github.com/facebook/create-react-app) template that allows for the use of TypeScript, Sass & Material UI.
 
-Use the template by the follow command `npx create-react-app my-app --template ts-mui-sass`.
+Use the template by the follow command `npx create-react-app my-app --template @rxdsoftware/ts-mui-sass`.
 
 Created & Maintained by RxD Software LLC.
 

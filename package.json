@@ -1,6 +1,6 @@
 {
   "name": "@rxdsoftware/cra-template-ts-mui-sass",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A basic Create React App template to use TypeScript, Material UI & SASS.",
   "keywords": [
     "react",

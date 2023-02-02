@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [RxD Software TypeScript-MaterialUI-SASS Template]().
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [RxD Software TypeScript-MaterialUI-SASS Template](https://github.com/RxDSoftware/cra-template-ts-mui-sass).
 
 ## Available Scripts
 
